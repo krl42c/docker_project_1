@@ -2,6 +2,7 @@
 
 ## Sources for the first Docker project
 
+Dockerfiles are located inside the root directory of each application.
 
 Build/run: 
 
